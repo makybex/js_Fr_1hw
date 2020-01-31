@@ -1,0 +1,15 @@
+button {
+    width: 100px;
+    height: 50px;
+    background-color: green;
+    margin: 20px;
+}
+
+
+
+
+.center {
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+}
